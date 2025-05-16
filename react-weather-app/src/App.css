@@ -1,0 +1,57 @@
+.cities{
+    margin:0 auto;
+    max-width: 700px;
+    border: 2px solid rgb(3, 2, 2);
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+}
+
+h1{
+    text-align: center;
+    
+}
+
+ul{
+    list-style-type: square;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+  }
+
+  .forecast{
+    margin:0 auto;
+    max-width: 700px;
+    padding:10px;
+    border: 2px solid rgb(3, 2, 2);
+    font-family:Georgia, 'Times New Roman', Times, serif;   
+  }
+
+  #summary{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  #details{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  .view-button{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(240, 235, 235);
+    
+  }
+
+  .back-button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(240, 235, 235);
+
+  }
